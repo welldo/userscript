@@ -12,6 +12,7 @@
 | [deepseek-snapshot](./src/userscript/deepseek-snapshot/README.md) | DeepSeek 网页快照工具 |
 | [duplicate-tab-cleaner](./src/userscript/duplicate-tab-cleaner/README.md) | 重复标签页清理工具 |
 | [Github Copilot Enhanced](./src/userscript/github-copilot-enhanced/README.md) | GitHub Copilot 增强 |
+| [GitHub DeepWiki Redirect](./src/userscript/github-deepwiki-redirect/README.md) | 快速打开 GitHub 仓库对应的 DeepWiki 页面 |
 | [GithubRepoInfo](./src/userscript/GithubRepoInfo/README.md) | GitHub 仓库信息展示工具 |
 | [Highlight Translation](./src/userscript/highlight-translation/README.md) | 划词翻译 |
 | [Liquid Glass Injector](./src/userscript/liquid-glass-injector/README.md) | 注入液态玻璃效果元素 |

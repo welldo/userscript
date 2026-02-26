@@ -10,6 +10,7 @@
 | [deepseek-snapshot](./src/userscript/deepseek-snapshot/README.md) | DeepSeek webpage snapshot tool |
 | [duplicate-tab-cleaner](./src/userscript/duplicate-tab-cleaner/README.md) | Duplicate tab cleaner |
 | [Github Copilot Enhanced](./src/userscript/github-copilot-enhanced/README.md) | GitHub Copilot enhancements |
+| [GitHub DeepWiki Redirect](./src/userscript/github-deepwiki-redirect/README.md) | Quickly open the DeepWiki page for any GitHub repository |
 | [GithubRepoInfo](./src/userscript/GithubRepoInfo/README.md) | Displays GitHub repository information |
 | [Highlight Translation](./src/userscript/highlight-translation/README.md) | Translate selected text |
 | [Liquid Glass Injector](./src/userscript/liquid-glass-injector/README.md) | Injects liquid glass effect elements |
